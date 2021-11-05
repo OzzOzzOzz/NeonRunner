@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Neon_Runner.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ChargeBanzai\Documents\tek\tek5\archi_jv\NeonRunner\Neon_Runner\Intermediate\Build\Win64\Neon_RunnerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ChargeBanzai\Documents\tek\tek5\archi_jv\NeonRunner\Neon_Runner\Intermediate\Build\Win64\UE4Editor\Development\Neon_Runner\Neon_Runner.cpp.obj"
+"C:\Users\ChargeBanzai\Documents\tek\tek5\archi_jv\NeonRunner\Neon_Runner\Intermediate\Build\Win64\UE4Editor\Development\Neon_Runner\Neon_RunnerCharacter.cpp.obj"
+"C:\Users\ChargeBanzai\Documents\tek\tek5\archi_jv\NeonRunner\Neon_Runner\Intermediate\Build\Win64\UE4Editor\Development\Neon_Runner\Neon_RunnerGameMode.cpp.obj"
+"C:\Users\ChargeBanzai\Documents\tek\tek5\archi_jv\NeonRunner\Neon_Runner\Intermediate\Build\Win64\UE4Editor\Development\Neon_Runner\Neon_Runner.init.gen.cpp.obj"
+"C:\Users\ChargeBanzai\Documents\tek\tek5\archi_jv\NeonRunner\Neon_Runner\Intermediate\Build\Win64\UE4Editor\Development\Neon_Runner\Neon_RunnerCharacter.gen.cpp.obj"
+"C:\Users\ChargeBanzai\Documents\tek\tek5\archi_jv\NeonRunner\Neon_Runner\Intermediate\Build\Win64\UE4Editor\Development\Neon_Runner\Neon_RunnerGameMode.gen.cpp.obj"
+"C:\Users\ChargeBanzai\Documents\tek\tek5\archi_jv\NeonRunner\Neon_Runner\Intermediate\Build\Win64\UE4Editor\Development\Neon_Runner\Default.rc2.res"
+/OUT:"C:\Users\ChargeBanzai\Documents\tek\tek5\archi_jv\NeonRunner\Neon_Runner\Intermediate\Build\Win64\UE4Editor\Development\Neon_Runner\UE4Editor-Neon_Runner.lib"
