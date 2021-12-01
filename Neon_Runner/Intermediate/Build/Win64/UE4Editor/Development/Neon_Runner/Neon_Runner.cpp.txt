@@ -1,2 +1,0 @@
-C:\Users\ChargeBanzai\Documents\tek\tek5\archi_jv\NeonRunner\Neon_Runner\Intermediate\Build\Win64\UE4Editor\Development\Neon_Runner\Definitions.Neon_Runner.h
-c:\users\chargebanzai\documents\tek\tek5\archi_jv\neonrunner\neon_runner\source\neon_runner\Neon_Runner.h

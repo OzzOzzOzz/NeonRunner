@@ -1,9 +1,0 @@
-C:\Users\ChargeBanzai\Documents\tek\tek5\archi_jv\NeonRunner\Neon_Runner\Intermediate\Build\Win64\UE4Editor\Development\Neon_Runner\Definitions.Neon_Runner.h
-E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\ChargeBanzai\Documents\tek\tek5\archi_jv\NeonRunner\Neon_Runner\Source\Neon_Runner/Neon_RunnerGameMode.h
-E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-c:\users\chargebanzai\documents\tek\tek5\archi_jv\neonrunner\neon_runner\intermediate\build\win64\ue4editor\inc\neon_runner\Neon_RunnerGameMode.generated.h
